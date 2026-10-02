@@ -1,0 +1,33 @@
+# CLion files
+.idea/
+cmake-build-*/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CMakeUserPresets.json
+CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Generated files
+CMakePresets.json
